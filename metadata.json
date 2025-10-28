@@ -1,0 +1,5 @@
+{
+  "name": "Metric Converter",
+  "description": "A sleek and responsive one-page application to convert between various metric and imperial units of length, including kilometers, miles, meters, and more.",
+  "requestFramePermissions": []
+}
